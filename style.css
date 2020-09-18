@@ -1,0 +1,40 @@
+body
+{
+	margin:5px;
+}
+
+table
+{
+	width:100%;
+}
+
+tabled
+{
+	text-align:center;
+}
+
+.top
+{
+	background-color:#FF00CC;
+}
+
+.wrap
+{
+	display: flex;
+	flex-direction: row;
+	min-height: 89vh;
+}
+
+.left
+{
+	background-color:#EDB0FC;
+	width:17%;
+}
+
+.right
+{
+	background-color:#3D193C;
+	color:white;
+	flex: 1;
+	text-align:center;
+}
